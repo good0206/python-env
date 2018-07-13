@@ -20,6 +20,7 @@ djangorestframework==3.8.2
 djangorestframework-jwt==1.11.0
 ephem==3.7.6.0
 et-xmlfile==1.0.1
+ffmpy==0.2.2
 idna==2.6
 itypes==1.1.0
 jdcal==1.4
@@ -48,7 +49,6 @@ tqdm==4.14.0
 uritemplate==3.0.0
 urllib3==1.22
 uuid==1.30
-Mako==1.0.6
 uWSGI==2.0.15
 vine==1.1.4
 xlwt==1.3.0
