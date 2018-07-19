@@ -24,7 +24,7 @@ idna==2.6
 itypes==1.1.0
 jdcal==1.4
 Jinja2==2.10
-kombu==4.2.1
+kombu==4.1.0
 lml==0.0.1
 Mako==1.0.6
 Markdown==2.6.11
