@@ -1,6 +1,10 @@
-FROM docker.io/library/python:3.7-slim
+FROM python:3.6-buster
 
-RUN mkdir /code
-ADD requirements.txt /code/
-WORKDIR /code
-RUN pip install -r requirements.txt
+WORKDIR /usr/src/app
+
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+CMD ["python"]
