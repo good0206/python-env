@@ -66,7 +66,7 @@ pycrc
 pycryptodome==3.9.7
 pycurl==7.43.0.6
 pyDes==2.0.1
-Pygments==2.2.0
+Pygments==2.7.4
 PyHamcrest==1.9.0
 pyparsing==2.4.6
 pyrasite==2.0
