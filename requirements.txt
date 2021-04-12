@@ -76,7 +76,7 @@ python-docx==0.8.10
 pytz==2018.5
 PyYAML==3.13
 redis==2.10.6
-requests==2.19.1
+requests==2.20.0
 ruamel.yaml==0.16.5
 ruamel.yaml.clib==0.2.0
 Shapely==1.7.1
