@@ -40,7 +40,7 @@ ipython-genutils==0.2.0
 jdcal==1.4
 jedi==0.12.1
 jmespath==0.9.4
-lxml==4.2.5
+lxml==4.6.5
 meliae==0.5.1
 msgpack==0.5.6
 MyQR==2.3.1
